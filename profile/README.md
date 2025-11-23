@@ -8,7 +8,7 @@ Here you'll find our open-source tools, experiments, and utilities that we've de
 
 ## 🚀 About Us
 
-We are a duo of developers passionate about building useful, secure, and interesting software. We've been making ~~quality~~ code since 2020. **OP Vault** serves as our central repository for:
+We are a duo of developers passionate about building useful, secure, and interesting software. We've been making ~~quality~~ code since 2021. **OP Vault** serves as our central repository for:
 
 *   **🔧 Utilities**: Small tools to make life easier.
 *   **🛠️ Applications**: Full-stack applications and services.
